@@ -39,6 +39,7 @@ export type Brand =
 export type Series =
   | 'test:series'
   | 'captcha-deterrent'
+  | '1660'
   | '3060'
   | '3060ti'
   | '3070'
@@ -143,6 +144,7 @@ export type Model =
   | 'strix'
   | 'strix oc white'
   | 'strix white'
+  | 'super'
   | 'taichi'
   | 'trinity oc'
   | 'trinity'

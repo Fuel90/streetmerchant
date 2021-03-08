@@ -474,6 +474,20 @@ export const BestBuy: Store = {
       series: '3060ti',
       url: 'https://api.bestbuy.com/click/-/6444449/pdp',
     },
+    {
+      brand: 'asus',
+      cartUrl: 'https://api.bestbuy.com/click/-/6405063/cart',
+      model: 'super',
+      series: '1660',
+      url: 'https://api.bestbuy.com/click/-/6405063/pdp',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl: 'https://api.bestbuy.com/click/-/6409171/cart',
+      model: 'super',
+      series: '1660',
+      url: 'https://api.bestbuy.com/click/-/6409171/pdp',
+    },
   ],
   name: 'bestbuy',
 };
